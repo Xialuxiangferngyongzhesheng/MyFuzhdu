@@ -3,9 +3,8 @@ plugins {
     id  'com.github.dcendents.android-maven'
 
 }
-group{
-    'com.github.Xialuxiangferngyongzhesheng'
-}
+group='com.github.Xialuxiangferngyongzhesheng'
+
 
 android {
     compileSdkVersion 31
